@@ -5,6 +5,7 @@
 ## 📚 Informações sobre o projeto
 
 *About
+&nbsp;
 Projeto sobre uma aplicação de Modelo desenvolvedor web com suas caracteristicas pessoais. Sobre as caracteristicas do profissional e as principais tecs. Resumo dos principais projetos desenvolvidos e os seviços prestados e opnião dos clientes . Por fim formulário de contato e links redes sociais.
 &nbsp;
 
