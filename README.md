@@ -6,7 +6,7 @@
 
 ## Definição 
 
-Projeto sobre uma aplicação de portifolio Modelo desenvolvedor web com suas caracteristicas pessoais e profissionais, traz suas principais tecs e aplicativos os quais trabalha possui parceria. Resumo dos principais projetos desenvolvidos, seviços prestados e opnião dos clientes . Por fim formulário de contato e links de redes sociais.
+Projeto sobre uma aplicação de portifolio Modelo desenvolvedor web com suas caracteristicas pessoais e profissionais, traz suas principais tecs e rede sociais os quais trabalha de freelancer. Resumo dos principais projetos desenvolvidos, seviços prestados e opnião dos clientes . Por fim formulário de contato e links de redes sociais.
 &nbsp;
 
 ## 💻 O que tem no projeto?
