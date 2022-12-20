@@ -53,7 +53,7 @@ $ yarn start
 ### 🔗 Link para o projeto online
 
 
-[Portifolio Dev](https://lscoffee.vercel.app/)
+[Portifolio Dev](https://antonioalexandre1984.netlify.app/))
 
 &nbsp;
 
