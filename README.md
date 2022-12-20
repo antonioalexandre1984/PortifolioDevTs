@@ -4,14 +4,14 @@
 
 ## 📚 Informações sobre o projeto
 
-*About
-&nbsp;
-Projeto sobre uma aplicação de Modelo desenvolvedor web com suas caracteristicas pessoais. Sobre as caracteristicas do profissional e as principais tecs. Resumo dos principais projetos desenvolvidos e os seviços prestados e opnião dos clientes . Por fim formulário de contato e links redes sociais.
+## Definição 
+
+Projeto sobre uma aplicação de portifolio Modelo desenvolvedor web com suas caracteristicas pessoais e profissionais, traz suas principais tecs e aplicativos os quais trabalha possui parceria. Resumo dos principais projetos desenvolvidos, seviços prestados e opnião dos clientes . Por fim formulário de contato e links de redes sociais.
 &nbsp;
 
 ## 💻 O que tem no projeto?
 
-* Front-end bem clean originalmente este projeto foi feito em JavaScript e Tailwind. Apartir dessa premissa refazemos o projeto do zero usando React vite com linguagem TypeScript e Tailwind na estilização. desenvolvido seguindo o proposto no [youtube](https://www.youtube.com/watch?v=mfpEn52dD5k&t=4164s).performatico possivel. 
+* Front-end bem clean originalmente este projeto foi feito em JavaScript e Tailwind. Apartir dessa premissa refazemos o projeto do zero usando React vite com linguagem TypeScript e Tailwind na estilização além de libs de animação do react. Este projeto foi desenvolvido seguindo o proposto no [youtube](https://www.youtube.com/watch?v=mfpEn52dD5k&t=4164s). 
 
 &nbsp;
 
