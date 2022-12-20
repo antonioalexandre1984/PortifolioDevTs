@@ -1,5 +1,3 @@
-# Responsive Portfolio Website using ReactJS & Tailwind CSS.
-
 # Portifolio Dev
 
 ![mock1](preview.png)
